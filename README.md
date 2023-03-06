@@ -1,2 +1,2 @@
-# to-do-list-with-nuxt-js
-credits to ali arshadi as developer
+# todo-list-with-nuxt.js
+designed and developed by ali arshadi
